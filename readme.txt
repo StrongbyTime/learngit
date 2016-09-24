@@ -7,3 +7,6 @@ Git is free software.
 第一步，使用命令git add <file>，注意，可反复多次使用，添加多个文件；
 
 第二步，使用命令git commit，完成。
+mkdir learn git
+cd learn git 
+pwd
