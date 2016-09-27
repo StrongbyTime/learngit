@@ -20,3 +20,8 @@ git diff
 
 你可以简单理解为，需要提交的文件修改通通放到暂存区，
 一次性提交暂存区的所有修改。
+git checkout命令加上-b参数表示创建并切换，相当于以下两条命令：
+
+$ git branch dev
+$ git checkout dev
+Switched to branch 'dev'
